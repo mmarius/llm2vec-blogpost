@@ -1,6 +1,6 @@
 # LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders
 
-*Authors: Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Redd*
+*Authors: Parishad BehnamGhader\*, Vaibhav Adlakha\*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Redd*
 
 
 Text embedding models convert a piece of text such as a search query, a document, or pieces of code into a sequence of real-valued numbers. Given such embeddings, we can measure the similarity or relatedness of pieces of text which facilitates various important applications such as search, clustering, retrieval, and classification.
